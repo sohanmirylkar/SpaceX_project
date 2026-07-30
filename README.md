@@ -1,5 +1,7 @@
 # SpaceX Falcon 9 Landing Prediction
 
+**[Try the live landing-prediction demo](https://sohan-live-project-lab.miryalkarsohan.chatgpt.site/#spacex)**
+
 An end-to-end data-science capstone that investigates whether a Falcon 9 first stage will land successfully—from API collection and web scraping to SQL analysis, interactive maps, dashboards, and machine-learning models.
 
 ## Why landing prediction matters
